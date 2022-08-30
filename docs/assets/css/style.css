@@ -1,0 +1,37 @@
+model-viewer {
+    width: 100%;
+    height: 500px;
+    margin: auto;
+  }
+
+.agradecimiento {
+    text-align: center;
+    padding: 10px;
+    font-family: 'Roboto';
+    font-weight: 900;
+  }
+  
+  .botonesthanks {
+    text-align: center;
+    max-width: 700px;
+    margin: auto;
+    margin-top: 10px;
+    z-index: 1000;
+  }
+  
+  .botonesthanks .btn {
+    margin: 5px;
+    border: none;
+    background: #5cceff;
+    color: #fff;
+    width: 45%;
+    border-radius: 15px;
+  }
+  
+  .thanks3d {
+    width: 100%;
+    height: 100%;
+    background: url("/assets/img/apps.png?h=cb6ee6e90f8afcadc3982afec3a85966");
+    background-size: cover;
+    background-position: center;
+  }
