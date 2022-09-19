@@ -31,7 +31,7 @@ model-viewer {
   .thanks3d {
     width: 100%;
     height: 100%;
-    background: url("/assets/img/apps.png?h=cb6ee6e90f8afcadc3982afec3a85966");
+    background: url("./assets/img/apps.png");
     background-size: cover;
     background-position: center;
   }
