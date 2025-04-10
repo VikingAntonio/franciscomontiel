@@ -80,11 +80,11 @@ a:focus, a:hover, a:active {
   color: black;
 }
 
-@media (max-width: 992px) {
-  .separador {
+
+.separador {
     width: 100%;
     height: 200px;
   }
-}
+
 
 
