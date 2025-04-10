@@ -2,6 +2,23 @@ body{
   background:black;
   
 }
+.portada{
+  background: url("./portygo.jpg");
+  width: 100%;
+  height: 450px;
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+@media (max-width: 992px) {
+  .portada {
+    width: 100%;
+    height: 300px;
+  }
+}
 .sticky-container {
     align-items: flex-start;
     height: 400lvh;
