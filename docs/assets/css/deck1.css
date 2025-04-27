@@ -19,6 +19,23 @@ body{
     height: 300px;
   }
 }
+.portadapk{
+  background: url("https://vikingantonio.github.io/bddCards/assets/img/25thpk.jpg");
+  width: 100%;
+  height: 450px;
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+@media (max-width: 992px) {
+  .portadapk {
+    width: 100%;
+    height: 300px;
+  }
+}
 .sticky-container {
     align-items: flex-start;
     height: 400lvh;
