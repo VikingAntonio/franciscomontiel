@@ -137,7 +137,7 @@ body{
   }
 
 /*css para seleccionar que tecla deben presionar*/
-.kbd{
+kbd{
   background-color:#eee;
   border: 1px solid #b4b4b4;
   border-radius:5px;
