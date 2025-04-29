@@ -18,6 +18,11 @@ body{
   width: 240px;
   height: 340px;
 }
+.swiperyg {
+  position: relative;
+  width: 240px;
+  height: 360px;
+}
 
 .swiper-slide {
   border-radius: 18px;
