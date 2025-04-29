@@ -20,6 +20,8 @@ html {
 
 
 .container {
+   font-family: 'Poppins', sans-serif;
+  font-size: 1.6rem;
   max-width: var(--container);
   padding: 0 2rem;
   margin: var(--m-auto);
