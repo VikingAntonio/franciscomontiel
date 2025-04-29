@@ -135,3 +135,15 @@ body{
     background-size: 89%;
     background-repeat: no-repeat;
   }
+
+/*css para seleccionar que tecla deben presionar*/
+.kbd{
+  background-color:#eee;
+  border: 1px solid #b4b4b4;
+  border-radius:5px;
+  box-shadow:0 2px #ccc;
+  padding: 4px 8px;
+  margin: 0 2px;
+  font-size: 16px;
+  font-family: monospace;
+}
