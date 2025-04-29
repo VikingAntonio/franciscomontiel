@@ -138,6 +138,7 @@ body{
 
 /*css para seleccionar que tecla deben presionar*/
 .instruccion{
+   width: 100%;
   display:flex;
   justify-content:center;
   align-items:center;
