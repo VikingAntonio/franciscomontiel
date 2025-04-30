@@ -38,7 +38,7 @@ body{
 }
 .sticky-container {
     align-items: flex-start;
-    height: 400lvh;
+    height: 100lvh;
   }
 
   .sticky-content {
