@@ -139,10 +139,11 @@ body{
 /*css para seleccionar que tecla deben presionar*/
 .instruccion{
    width: 100%;
+  margin:auto;
   display:flex;
   justify-content:center;
   align-items:center;
-  margin:auto;
+  
 }
 kbd{
   background-color:#eee;
