@@ -139,9 +139,6 @@ body{
 .instruccion{
    width: 100%;
   margin:auto;
-display: flex;
-  justify-content: center;
-  align-items: center;
   text-align: center;
 }
 .instruccion p{
