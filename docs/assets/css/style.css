@@ -35,3 +35,13 @@ model-viewer {
     background-size: cover;
     background-position: center;
   }
+.titulares{
+    width:100%;
+    margin:aauto;
+    text-align:center;
+    display:flex;
+    justify-content:center;
+    Aling-items:center;
+    flex-direction:column;
+}
+
