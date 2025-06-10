@@ -60,4 +60,14 @@ kbd{
   font-family: monospace;
   color:black;
 }
+.deck{
+    width:100%;
+    margin:auto;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.deck img {
+    width 90%;
+}
 
