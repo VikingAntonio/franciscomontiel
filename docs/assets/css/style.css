@@ -61,11 +61,10 @@ kbd{
   color:black;
 }
 .deck{
-    width:100%;
+    width:90%;
     margin:auto;
-    display:flex;
-    justify-content:center;
-    align-items:center;
+    text-align:center;
+    
 }
 .deck img {
     width 90%;
