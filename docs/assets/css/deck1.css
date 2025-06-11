@@ -135,5 +135,17 @@ body{
     background-size: 89%;
     background-repeat: no-repeat;
   }
+.deck{
+    width:90%;
+    height:500px;
+    margin:auto;
+    text-align:center;
+    
+}
+.deck img {
+    margin:auto;
+    text-align:center;
+    width 80%;
+}
 
 
